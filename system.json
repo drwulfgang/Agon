@@ -11,20 +11,9 @@
     "authors": [
       {
         "name": "me"
-        /*,
-        "url": "YOUR WEBSITE ADDRESS HERE",
-        "email": "YOUR EMAIL ADDRESS HERE",
-        "discord": "YOUR DISCORD USERNAME HERE"
-        */
       }
-   
     ],
-    /*
-    "scripts": [
-      "scripts/system-script-1.js",
-      "scripts/system-script-2.js"
-    ],
-    */
+ 
     "esmodules": [
       "scripts/agon.js"
     ],
@@ -32,26 +21,11 @@
       "styles/agon.css"
     ],
     "packs": [
-        /*
-      {
-        "name": "monsters",
-        "label": "My Monsters",
-        "type": "Actor"
-      },
-      {
-        "name": "items",
-        "label": "My Items",
-        "type": "Item"
-      }
-      */
+     
     ],
   "languages": [
       {
-        /*
-        "lang": "en",
-        "name": "English",
-        "path": "lang/en.json"
-        */
+      
       }
     ],
     "initiative": "1d20",
@@ -59,11 +33,5 @@
     "gridUnits": "ft",
     "primaryTokenAttribute": "resources.health",
     "secondaryTokenAttribute": "resources.power"
-    /*,
-    "socket": false,
-    "url": "https://your/hosted/system/repo/",
-    "background": "systems/mysystem/assets/splash.webp",
-    "manifest": "https://your/hosted/system/repo/system.json",
-    "download": "https://your/packaged/download/archive.zip"
-    */
+   
   }
