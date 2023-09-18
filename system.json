@@ -1,8 +1,8 @@
 {
-    "id": "mysystem",
-    "title": "Minimal World Building",
-    "description": "A human-readable description of your system.",
-    "version": "1.0.0",
+    "id": "agon",
+    "title": "Agon 2E",
+    "description": "Agon 2E",
+    "version": "0.0.1",
     "compatibility": {
       "minimum": "10",
       "verified": "11",
