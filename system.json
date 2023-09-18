@@ -2,7 +2,7 @@
     "id": "agon",
     "title": "Agon 2E",
     "description": "Agon 2E",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "compatibility": {
       "minimum": "10",
       "verified": "11",
