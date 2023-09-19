@@ -25,7 +25,8 @@
     ],
   "languages": [
       {
-      
+      "lang": "en",
+      "path": "lang/en.json"
       }
     ],
     "initiative": "1d20",
